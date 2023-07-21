@@ -1,0 +1,5 @@
+﻿  FileName.c
+D:\code\Project_1\Project_1\FileName.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FileName1.c
+  FileName2.c
+  正在生成代码...
